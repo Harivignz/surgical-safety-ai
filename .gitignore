@@ -1,0 +1,32 @@
+# Data (too large for git — use Kaggle API)
+data/
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+weights/
+
+# Screenshots and outputs
+screenshot_*.png
+demo_output.mp4
+surgsentinel_demo.mp4
+setup/verify_*.png
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Kaggle
+kaggle.json
