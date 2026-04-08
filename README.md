@@ -1,4 +1,4 @@
-# SurgSentinel — Surgical Safety AI
+# SurgSentinel - Surgical Safety AI
 
 > Real-Time Intraoperative Phase Recognition + Complication Risk Prediction  
 > Open-Source | Device-Agnostic | Low-Resource Deployable  
